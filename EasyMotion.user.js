@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Minimal EasyMotion-style link navigation
-// @author       you
+// @author       Charles Calhoun
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
